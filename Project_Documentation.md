@@ -5,7 +5,6 @@
 **Project title:** Student Performance Analytics System  
 **Student name:** NILENDU BARMAN  
 **Course:** Python with AI — EWB Courses  
-**Submission deadline:** 15 October 2026
 
 ## 2. Overview
 
