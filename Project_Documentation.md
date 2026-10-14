@@ -3,7 +3,7 @@
 ## 1. Name
 
 **Project title:** Student Performance Analytics System  
-**Student name:** [Your Name]  
+**Student name:** NILENDU BARMAN  
 **Course:** Python with AI — EWB Courses  
 **Submission deadline:** 15 October 2026
 
@@ -37,4 +37,4 @@ Install the packages listed in `requirements.txt`, then run `python main.py` fro
 
 ## 5. Final Outcome
 
-The completed project produces a readable analytics report from the included student dataset. It automates individual and class calculations, applies stated grading and attendance rules consistently, and makes subject performance and top students easy to identify. The project files are organized for a GitHub repository; the student should replace the name placeholder, upload the folder to their repository, and submit that repository link through the course Google Form.
+The completed project produces a readable analytics report from the included student dataset. It automates individual and class calculations, applies stated grading and attendance rules consistently, and makes subject performance and top students easy to identify.

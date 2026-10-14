@@ -1,7 +1,7 @@
 # Student Performance Analytics System
 
 **Course:** Python with AI — EWB Courses  
-**Student:** [Your Name]  
+**Student:** NILENDU BARMAN  
 **Submission deadline:** 15 October 2026
 
 ## Overview
@@ -42,7 +42,3 @@ The CSV contains `Student_ID`, `Name`, `Department`, marks for Mathematics, Pyth
 ## Analysis included
 
 The output shows a preview of the data, each student's total, average, grade and pass/fail result, class average, pass/fail counts, highest and lowest student averages, the top three performers, and each subject's average/high/low mark and best average subject.
-
-## GitHub submission
-
-Create a repository such as `student-performance-analytics`, add the files in this folder, and push them to GitHub. Replace `[Your Name]` in this README and documentation first. After uploading, copy the repository URL into the EWB Courses Google Form. The Google Form link was not included in the assignment text, so it must be obtained from the trainer/course materials.
